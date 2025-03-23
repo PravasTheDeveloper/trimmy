@@ -198,7 +198,7 @@ export default function Home() {
         
         <div className="mt-10">
           <a 
-            href="https://github.com/yourusername/trimmy" 
+            href="https://github.com/PravasTheDeveloper/trimmy" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 transition transform hover:scale-105"
